@@ -1,0 +1,73 @@
+.HomeSection {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('https://www.myperfectresume.com/wp-content/uploads/2020/09/5-common-questions-for-emirates-flight-attendant.jpg');
+  background-position: top;
+  margin-top: -16px;
+  z-index: -10;
+}
+h1 {
+  /* text-align: center; */
+  margin-bottom: 3rem;
+}
+
+.bookflight {
+  background-image: url(./images/bg1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.bookflight_ {
+  display: flex;
+}
+
+.userBookFlight{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-size: cover;
+  z-index: -111;
+  background-image: url('https://www.luxurysafes.me/blog/wp-content/uploads/2018/07/virgin-1140x660.jpg');
+}
+.addflight{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center;
+  z-index: -111;
+  background-image: url('https://thumbs.dreamstime.com/z/passenger-commercial-aircraft-view-cockpit-flight-service-arriving-airport-144583749.jpg');
+}
+.datahero{
+  position: relative;
+  top: 20rem;
+}
+
+.mybooks {
+  position: relative;
+  top: 10rem;
+}
+
+.grad {
+  background-image: linear-gradient(to bottom right, #ACB6E5,#86FDE8);
+  inset: 0;
+  position: absolute;
+
+}
+
+#message {
+  display:none;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 18px;
+}
