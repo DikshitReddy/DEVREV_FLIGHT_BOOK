@@ -9,7 +9,7 @@ A Flight Booking Web-Application which has both user and admin logins separated 
 
 ### Tech Stack Used
 
--   Backend : NodeJS,Express
+-   Backend : NodeJS,ExpressJS
 -   Frontend : ReactJS
 -   DB : MongoDB
 
